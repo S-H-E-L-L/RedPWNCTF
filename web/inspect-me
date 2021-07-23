@@ -1,0 +1,6 @@
+So in this task a link (https://inspect-me.mc.ax) was given which redirects us to a website .
+
+now as the name suggest(inspect me) ,in this task we have to use inspect element on the website so when We Ctrl+shift+I ( or right click on web and click inspect element)
+we get the flag in the source code. 
+
+ Flag :flag{inspect_me_like_123} 
