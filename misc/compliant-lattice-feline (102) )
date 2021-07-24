@@ -1,0 +1,4 @@
+So this was one of the most easiest task in the CTF. 
+
+Here , we Just have to connect to the given port (nc mc.ax 31443) using netcat and then we get the flag.
+Flag : flag{n3tc4t_1s_a_p1p3_t0_the_w0rld}
